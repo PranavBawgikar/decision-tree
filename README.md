@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Pranav Bawgikar</h1>
+<h1 align="center">Python Decision Tree Classifier</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Decentralized EHR Ledger System with Deep Learning and Blockchain**

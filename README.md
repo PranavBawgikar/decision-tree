@@ -5,3 +5,15 @@ This project contains a Python implementation of a decision tree classifier. The
 The purpose of this project is to provide a simple and effective way to classify data using the decision tree algorithm.
 
 In this project, the decision tree classifier is tested on both the training and testing data sets using the X and Y variables, and the accuracy score is printed along with a confusion matrix to display the results.
+
+<h3>Table of Contents</h3>
+
+<h4>Installation</h4>
+
+<h4>Usage</h4>
+
+<h4>Example</h4>
+
+<h4>Contributing</h4>
+
+<h4>License</h4>
